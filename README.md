@@ -5,7 +5,7 @@ NOTE: This is alpha software and bugs are prone to be in this, please submit iss
 ## Running
 ```rust
 $ cargo build --release
-$ ./src/target/release/caesium
+$ ./target/release/caesium
 ```
 
 ## Using
