@@ -1,4 +1,4 @@
-# Caesium - Highly Reactive Database, in rust
+# Caesium - Highly Reactive Database
 NOTE: This is alpha software and bugs are prone to be in this, please submit issues and PRs to help fix them
 
 
